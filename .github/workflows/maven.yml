@@ -1,4 +1,4 @@
-name: JAPI Test Framework
+name: API Test Framework
 
 on:
   push:
